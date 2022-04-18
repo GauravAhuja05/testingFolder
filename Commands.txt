@@ -8,8 +8,9 @@ version 2s
 to see staged files 
 $git diff --staged filename
 
-unstage files command
+Unstage files command
 $git reset file name
+$git reset .
 
 
 reset physical file 
