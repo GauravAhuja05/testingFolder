@@ -16,3 +16,8 @@ $git reset .
 reset physical file 
 $git checout file name           // only perticuler file will be update
 $git checout .              // all files
+
+---------------------
+$ls -la            // list all files available in folder if .git exist
+
+
