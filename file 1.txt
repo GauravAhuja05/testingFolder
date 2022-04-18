@@ -4,3 +4,13 @@ Hey hi
 version 1
 
 version 2s
+
+to see staged files 
+$git diff --staged filename
+
+unstage files command
+$git reset file name
+
+
+reset physical file 
+$git checout file name
