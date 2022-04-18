@@ -13,4 +13,5 @@ $git reset file name
 
 
 reset physical file 
-$git checout file name
+$git checout file name           // only perticuler file will be update
+$git checout .              // all files
