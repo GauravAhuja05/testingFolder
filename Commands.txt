@@ -20,4 +20,12 @@ $git checout .              // all files
 ---------------------
 $ls -la            // list all files available in folder if .git exist
 
+barnches
+-----------
+git branch  // list all branches
+git branch branch-name    // create branch
+
+git checkout Branch-name  // switch branch 
+
+--------------------merge branch
 
